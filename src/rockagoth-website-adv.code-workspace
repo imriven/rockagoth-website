@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../rockagoth-web"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "rockagoth-website-adv"
+  }
+}
